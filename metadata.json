@@ -1,0 +1,6 @@
+{
+  "name": "교실 평화 수비대: 4학년 갈등 해결 퀘스트",
+  "description": "초등학교 4학년 교실 내 갈등 상황 30가지를 역할극으로 해결하고 감정 변화를 기록하는 레트로 픽셀 RPG 에듀테크 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
